@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zain</h1>
-<h3 align="center">A passionate learner</h3>
+<h3 align="center">Building fullstack skills and learning everyday</h3>
 
 - 📫 How to reach me **zainateeqgillani@gmail.com**
 

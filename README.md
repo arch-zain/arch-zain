@@ -13,32 +13,136 @@
 </p>
 
 
-## 🚀 Tech Stack
+<h2 align="center">🚀 Tech Stack</h2>
 
-### 🎨 Frontend
+<p align="center">
 
-![Frontend](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,nextjs)
+<!-- Frontend -->
 
-### ⚙️ Backend
+<b>Frontend</b><br><br>
 
-![Backend](https://skillicons.dev/icons?i=nodejs,express,php,nestjs,fastapi,c,cpp)
+<a href="https://github.com/devicons/devicon/tree/master/icons/html5">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" style="margin:10px"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/css3">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" style="margin:10px"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/sass">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/tailwindcss">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/javascript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/typescript">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/react">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/nextjs">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45"/>
+</a>
 
-### 🗄️ Database
+<br><br>
 
-![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)
+<!-- Backend -->
 
-### 🧪 DevOps & Testing
+<b>Backend</b><br><br>
 
-![DevOps](https://skillicons.dev/icons?i=postman,docker)
+<a href="https://github.com/devicons/devicon/tree/master/icons/nodejs">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/express">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/php">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/nestjs">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/fastapi">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/c">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/cplusplus">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</a>
 
-### 💻 OS
+<br><br>
 
-![OS](https://skillicons.dev/icons?i=linux,ubuntu)
+<!-- Database -->
 
-### 🧰 Tools
+<b>Database</b><br><br>
 
-![Tools](https://skillicons.dev/icons?i=git,github,npm,vscode)
+<a href="https://github.com/devicons/devicon/tree/master/icons/postgresql">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/mysql">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/mongodb">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+</a>
 
-### ⚡ Technologies
+<br><br>
 
-![Tech](https://skillicons.dev/icons?i=wordpress)
+<!-- DevOps -->
+
+<b>DevOps & Testing</b><br><br>
+
+<a href="https://github.com/devicons/devicon/tree/master/icons/postman">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/docker">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+</a>
+
+<br><br>
+
+<!-- OS -->
+
+<b>Operating Systems</b><br><br>
+
+<a href="https://github.com/devicons/devicon/tree/master/icons/linux">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/ubuntu">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="45"/>
+</a>
+
+<br><br>
+
+<!-- Tools -->
+
+<b>Tools</b><br><br>
+
+<a href="https://github.com/devicons/devicon/tree/master/icons/git">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/github">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/npm">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" width="45"/>
+</a>
+<a href="https://github.com/devicons/devicon/tree/master/icons/vscode">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/>
+</a>
+
+</p>
+
+<!-- Optional Glow Effect -->
+
+<style>
+img:hover {
+  transform: scale(1.15);
+  transition: 0.3s ease-in-out;
+  filter: drop-shadow(0 0 6px rgba(0,255,255,0.6));
+}
+</style>

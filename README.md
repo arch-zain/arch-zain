@@ -27,9 +27,6 @@
 <a href="https://github.com/devicons/devicon/tree/master/icons/css3">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" style="margin:10px"/>
 </a>
-<a href="https://github.com/devicons/devicon/tree/master/icons/sass">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45"/>
-</a>
 <a href="https://github.com/devicons/devicon/tree/master/icons/tailwindcss">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45"/>
 </a>
@@ -58,9 +55,6 @@
 <a href="https://github.com/devicons/devicon/tree/master/icons/express">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45"/>
 </a>
-<a href="https://github.com/devicons/devicon/tree/master/icons/php">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/>
-</a>
 <a href="https://github.com/devicons/devicon/tree/master/icons/nestjs">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="45"/>
 </a>
@@ -80,9 +74,6 @@
 
 <b>Database</b><br><br>
 
-<a href="https://github.com/devicons/devicon/tree/master/icons/postgresql">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
-</a>
 <a href="https://github.com/devicons/devicon/tree/master/icons/mysql">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
 </a>

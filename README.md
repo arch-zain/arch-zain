@@ -94,7 +94,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </a>
 <a href="https://ubuntu.com" target="_blank" style="text-decoration:none;">
-  <div style="
+  <span style="
     background:#E95420;
     padding:18px;
     border-radius:50%;
@@ -104,5 +104,5 @@
   ">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
          width="56" />
-  </div>
+  </span>
 </a></p>

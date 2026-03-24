@@ -95,10 +95,13 @@
 </a>
 <div style="
   background:#E95420;
-  padding:8px;
+  padding:10px;
   border-radius:50%;
-  display:inline-block;
+  display:inline-flex;
+  align-items:center;
+  justify-content:center;
 ">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg"
-       width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg"
+       width="28"
+       style="filter: brightness(0) invert(1);" />
 </div></p>

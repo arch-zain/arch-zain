@@ -46,7 +46,7 @@
 <p>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
   <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
- <a href="https://nextjs.com/">
+ <a href="https://nextjs.org/">
 <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" title="Next" alt="Next" width="40" height="40" style="max-width: 100%; height: auto; max-height: 40px;"alt="NestJS"/>
 </a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>

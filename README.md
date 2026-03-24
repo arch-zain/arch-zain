@@ -45,8 +45,14 @@
 
 <p>
 <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
-<a href="https://expressjs.com">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
+  <a href="https://expressjs.com">
+  https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
+  <svg width="40" viewBox="0 0 128 128" xmlns="http://www.w3.org/2000/svg" fill="white">
+    <!-- (SVG paths copied from the SVG file) -->
+    <path d="M64 10L..." />
+    <!-- … -->
+  </svg>
+</a>
 </a>
 <a href="https://nestjs.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" width="40"/></a>
 <a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/></a>

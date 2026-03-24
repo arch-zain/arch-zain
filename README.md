@@ -93,15 +93,16 @@
 <a href="https://www.linux.org/">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </a>
-<div style="
-  background:#E95420;
-  padding:10px;
-  border-radius:50%;
-  display:inline-flex;
-  align-items:center;
-  justify-content:center;
-">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original-wordmark.svg"
-       width="28"
-       style="filter: brightness(0) invert(1);" />
-</div></p>
+<a href="https://ubuntu.com" target="_blank" style="text-decoration:none;">
+  <div style="
+    background:#E95420;
+    padding:18px;
+    border-radius:50%;
+    display:inline-flex;
+    align-items:center;
+    justify-content:center;
+  ">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg"
+         width="56" />
+  </div>
+</a></p>

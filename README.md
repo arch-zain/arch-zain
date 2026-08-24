@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Fullstack+Engineer+%7C+AI%2FML+%7C+APIs+%7C+System+Design;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Student;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## `$ whoami`
 
-Fullstack Engineer based in Lahore, Pakistan, focused on building across the stack — from React/Next.js frontends to Node.js/Express backends — with a growing specialization in AI/ML, APIs, and system design. Currently pursuing a BSCS at the University of Central Punjab.
+Fullstack Engineer based in Lahore, Pakistan, focused on building across the stack — from React/Next.js frontends to Node.js/Express backends — with a growing specialization in AI/ML, API's. Currently pursuing a BSCS at the University of Central Punjab.
 
 ```bash
 ROLE      : Student

@@ -31,10 +31,10 @@
 Fullstack Engineer based in Lahore, Pakistan, focused on building across the stack — from React/Next.js frontends to Node.js/Express backends — with a growing specialization in AI/ML, APIs, and system design. Currently pursuing a BSCS at the University of Central Punjab.
 
 ```bash
-ROLE      : Fullstack Engineer
-DOMAIN    : Fullstack Development, AI/ML, APIs, System Design
+ROLE      : Student
+DOMAIN    : Fullstack Development, AI/ML, API's
 STACK     : JavaScript, Python, React, Node.js, Next.js
-OPEN_TO   : Not currently open to opportunities
+OPEN_TO   : Data Analyst, FullStack Engineer
 ```
 
 ---
@@ -80,8 +80,8 @@ OPEN_TO   : Not currently open to opportunities
 |---|---|---|
 | Frontend Development | Proficient | React, Next.js, Tailwind CSS, Bootstrap |
 | Backend Development | Proficient | Node.js, Express, REST APIs |
-| Databases | Working Knowledge | PostgreSQL, SQLite |
-| AI / ML | Applied | Machine Learning, Deep Learning, scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas |
+| Databases | Working Knowledge | PostgreSQL, SQLite, MongoDB, SQL |
+| AI / ML | Applied | Machine Learning, Deep Learning, scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, Numpy, Seaborn, Matplotlib |
 | Security (Academic) | Applied | Behavioral zero-day malware classification |
 | Systems & Tools | Working Knowledge | Docker, Linux/Ubuntu, Nginx, Git |
 
@@ -205,11 +205,10 @@ No verified achievements listed yet.
 
 ```yaml
 current:
-  focus: Not disclosed
+  focus: Data Sciences, System Design
   projects:
     - Fingerprint-based-zero-day-threat-classification
     - Toxic-Comment-Classification
-  open_to: Not currently open to opportunities
 ```
 
 ---

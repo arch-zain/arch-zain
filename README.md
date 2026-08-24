@@ -48,7 +48,7 @@ OPEN_TO   : Not currently open to opportunities
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,c,cpp,nginx&theme=dark" /></p>
 
 **Database**
-<p align="left"><img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" /></p>
+<p align="left"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /> <img src="https://img.shields.io/badge/SQLite-39FF14?style=flat-square&logo=sqlite&logoColor=0D1117&labelColor=0D1117" /></p>
 
 **AI / ML**
 <p align="left"><img src="https://skillicons.dev/icons?i=py,tensorflow,opencv&theme=dark" /></p>
@@ -66,6 +66,7 @@ OPEN_TO   : Not currently open to opportunities
 <p align="left">
   <img src="https://img.shields.io/badge/Security-Zero--Day%20Threat%20Detection-39FF14?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/AI%2FML-Applied%20Machine%20Learning-39FF14?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-39FF14?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Pandas-39FF14?style=flat-square&logo=pandas&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/scikit--learn-39FF14?style=flat-square&logo=scikitlearn&logoColor=0D1117&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/PyTorch-39FF14?style=flat-square&logo=pytorch&logoColor=0D1117&labelColor=0D1117" />
@@ -79,8 +80,8 @@ OPEN_TO   : Not currently open to opportunities
 |---|---|---|
 | Frontend Development | Proficient | React, Next.js, Tailwind CSS, Bootstrap |
 | Backend Development | Proficient | Node.js, Express, REST APIs |
-| Databases | Working Knowledge | MongoDB, MySQL |
-| AI / ML | Applied | scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas |
+| Databases | Working Knowledge | PostgreSQL, SQLite |
+| AI / ML | Applied | Machine Learning, Deep Learning, scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas |
 | Security (Academic) | Applied | Behavioral zero-day malware classification |
 | Systems & Tools | Working Knowledge | Docker, Linux/Ubuntu, Nginx, Git |
 

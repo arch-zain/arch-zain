@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=FFB300&fontAlignY=35&desc=Student&descAlignY=55&descSize=18&descColor=FFB300&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=00E676&fontAlignY=35&desc=An aspiring Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20with%20a%20strong%20focus%20in%20developing%20API's%20%7C%20and%20AI/ML%20frameworks&descAlignY=55&descSize=18&descColor=00E676&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=FFB300&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20APIs%20%7C%20System%20Design&descAlignY=55&descSize=18&descColor=FFB300&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=00E676&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20APIs%20%7C%20System%20Design&descAlignY=55&descSize=18&descColor=00E676&animation=fadeIn" />
 </p>
 
 <p align="center">

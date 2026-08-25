@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=00E676&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20APIs%20%7C%20System%20Design&descAlignY=55&descSize=18&descColor=00E676&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=00E676&fontAlignY=35&desc=Student&descAlignY=55&descSize=18&descColor=00E676&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Fullstack+Engineer+%7C+AI%2FML+%7C+APIs+%7C+System+Design;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;I'm an aspiring student with vstrong focus on Fullstack tecnologies, Developing API's, AI/ML frameworks ;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">

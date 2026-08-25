@@ -1,13 +1,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=FFB300&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20APIs%20%7C%20System%20Design&descAlignY=55&descSize=18&descColor=FFB300&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,100:0D1117&height=220&section=header&text=Hi%20%F0%9F%91%8B%2C%20I'm%20Zain&fontSize=40&fontColor=00E676&fontAlignY=35&desc=Fullstack%20Engineer%20%7C%20AI%2FML%20%7C%20APIs%20%7C%20System%20Design&descAlignY=55&descSize=18&descColor=00E676&animation=fadeIn" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=FFB300&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Fullstack+Engineer+%7C+AI%2FML+%7C+APIs+%7C+System+Design;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00E676&background=0D1117&center=true&vCenter=true&width=700&lines=%24+whoami;Fullstack+Engineer+%7C+AI%2FML+%7C+APIs+%7C+System+Design;%24+ls+~%2Fprojects;zero-day-malware-detection+toxic-comment-classification;%24+echo+%24STATUS;Not+currently+open+to+new+roles" alt="Typing SVG" />
-</p>
-
+  
 <p align="center">
   <img src="https://img.shields.io/badge/Degree-BSCS-FFB300?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/University-University%20of%20Central%20Punjab-FFB300?style=flat-square&labelColor=0D1117" />
@@ -15,15 +11,6 @@
   <img src="https://img.shields.io/badge/Degree-BSCS-00E676?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/University-University%20of%20Central%20Punjab-00E676?style=flat-square&labelColor=0D1117" />
   <img src="https://img.shields.io/badge/Location-Lahore%2C%20Pakistan-00E676?style=flat-square&labelColor=0D1117" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/syed-zain-ul-abideen-gillani-418780245/"><img src="https://img.shields.io/badge/LinkedIn-FFB300?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
-  <a href="mailto:zainateeqgillani@gmail.com"><img src="https://img.shields.io/badge/Email-FFB300?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
-  <a href="https://github.com/arch-zain"><img src="https://img.shields.io/badge/GitHub-FFB300?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/syed-zain-ul-abideen-gillani-418780245/"><img src="https://img.shields.io/badge/LinkedIn-00E676?style=for-the-badge&logo=linkedin&logoColor=0D1117&labelColor=0D1117" /></a>
-  <a href="mailto:zainateeqgillani@gmail.com"><img src="https://img.shields.io/badge/Email-00E676?style=for-the-badge&logo=gmail&logoColor=0D1117&labelColor=0D1117" /></a>
-  <a href="https://github.com/arch-zain"><img src="https://img.shields.io/badge/GitHub-00E676?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=0D1117" /></a>
 </p>
 
 <p align="center">
@@ -36,7 +23,7 @@
 </p>
 
 ---
-@@ -48,7 +48,7 @@ OPEN_TO   : Not currently open to opportunities
+@@ -48,7 +48,7 @@ OPEN_TO   : Data Analyst, Fullstack Roles
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,c,cpp,nginx&theme=dark" /></p>
 
 **Database**

@@ -14,8 +14,8 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/syed-zain-ul-abideen-gillani">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/linkedin.svg" width="40"/></a>
-<a href="https://facebook.com/syed-zain-ul-abideen-gillani">
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" width="40"/>
+</a><a href="https://facebook.com/syed-zain-ul-abideen-gillani">
 <img src="https://cdn.simpleicons.org/facebook" width="40"/>
 </a>
 <a href="https://instagram.com/syed.zain__">
